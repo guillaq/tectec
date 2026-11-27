@@ -5,13 +5,13 @@ Connects Claude Code to your [tectec](https://tectec.app) account: find recipes 
 ## Install
 
 ```sh
-claude plugin install tectec --marketplace guillaq/tectec-plugin
+claude plugin install tectec --marketplace guillaq/tectec
 ```
 
 Or from inside Claude Code:
 
 ```
-/plugin marketplace add guillaq/tectec-plugin
+/plugin marketplace add guillaq/tectec
 /plugin install tectec@tectec
 ```
 

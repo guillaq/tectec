@@ -5,7 +5,7 @@
   "description": "Search, import and edit your tectec recipes, books, menus and grocery list.",
   "websiteUrl": "https://tectec.app/docs#connecting-an-ai-assistant",
   "repository": {
-    "url": "https://github.com/guillaq/tectec-plugin",
+    "url": "https://github.com/guillaq/tectec",
     "source": "github",
     "id": "1474264502"
   },
