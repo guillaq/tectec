@@ -4,8 +4,25 @@
   "title": "tectec",
   "description": "Search, import and edit your tectec recipes, books, menus and grocery list.",
   "websiteUrl": "https://tectec.app/docs#connecting-an-ai-assistant",
-  "repository": { "url": "https://github.com/guillaq/tectec-plugin", "source": "github" },
+  "repository": {
+    "url": "https://github.com/guillaq/tectec-plugin",
+    "source": "github",
+    "id": "1474264502"
+  },
   "version": "1.0.0",
-  "icons": [{ "src": "https://tectec.app/favicon.svg", "mimeType": "image/svg+xml", "sizes": ["any"] }],
-  "remotes": [{ "type": "streamable-http", "url": "https://tectec.app/api/mcp" }]
+  "icons": [
+    {
+      "src": "https://tectec.app/favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://tectec.app/api/mcp"
+    }
+  ]
 }
