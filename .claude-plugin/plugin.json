@@ -1,0 +1,21 @@
+{
+  "name": "tectec",
+  "description": "Search, import and edit your tectec recipes, books, menus and grocery list.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Guillaume",
+    "url": "https://github.com/guillaq"
+  },
+  "homepage": "https://tectec.app/docs#connecting-an-ai-assistant",
+  "repository": "https://github.com/guillaq/tectec-plugin",
+  "keywords": [
+    "recipes",
+    "cooking",
+    "meal-planning",
+    "groceries",
+    "mcp"
+  ],
+  "license": "MIT",
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://tectec.app/privacy"
+}

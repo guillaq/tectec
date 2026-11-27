@@ -1,0 +1,15 @@
+{
+  "name": "tectec",
+  "owner": {
+    "name": "Guillaume",
+    "url": "https://github.com/guillaq"
+  },
+  "description": "The tectec recipe app for Claude Code.",
+  "plugins": [
+    {
+      "name": "tectec",
+      "source": "./",
+      "description": "Search, import and edit your tectec recipes, books, menus and grocery list."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.guillaq/tectec",
+  "title": "tectec",
+  "description": "Search, import and edit your tectec recipes, books, menus and grocery list.",
+  "websiteUrl": "https://tectec.app/docs#connecting-an-ai-assistant",
+  "repository": { "url": "https://github.com/guillaq/tectec-plugin", "source": "github" },
+  "version": "1.0.0",
+  "icons": [{ "src": "https://tectec.app/favicon.svg", "mimeType": "image/svg+xml", "sizes": ["any"] }],
+  "remotes": [{ "type": "streamable-http", "url": "https://tectec.app/api/mcp" }]
+}

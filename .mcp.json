@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tectec": {
+      "type": "http",
+      "url": "https://tectec.app/api/mcp"
+    }
+  }
+}
